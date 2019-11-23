@@ -1,0 +1,76 @@
+1) When you toss a coin twice, what would be the sample space? 
+
+S = {HH, HT, TH, TT}
+
+
+2) When a pair of dice is rolled and sum of the numbers on the faces is recorded, what would be the sample space of this experiment?
+
+S = {2,3,4,5,6,7,8,9,10,11,12}
+
+
+3) When a non-biased dice with 6 faces is thrown, what is the probability that the number shown will be even?
+
+3/6
+
+
+4) A simple experiment was performed where we took a non-biased dice and checked for the probability of even number. A total of 10 throws were done and found that 4 times an even number was obtained. Now what is the probability of even number.
+
+4/10
+
+
+
+5) What is the probability of getting a king from a deck of cards?
+
+1/13
+
+
+6) A jar contains 7 red balls, 5 green balls, 8 yellow balls and 15 blue balls. What is the probability that the ball randomly selected is a green or red ball?
+
+
+12/35
+
+
+7) What is the probability of getting a sum 9 from two throws of a dice?
+
+1/9
+
+
+8) Three unbiased coins are tossed. What is the probability of getting at most two heads?
+
+7/8
+
+
+9) 3 red and 6 green marbles are present in a bag. What is the probaility of getting a red marble?
+
+1/3
+
+
+10) What is the probability of drawing a king in the first draw and again a king in the second draw as well without replacement?
+
+1/221
+
+
+11) What is the probability of getting two heads in two tosses?
+
+1/4
+
+12) If you toss a coin and roll a die, then what is the probability of getting a tail and a four on the die?
+
+1/12
+
+13) Calculate the probabilty of gettinng 2 Aces back to back from a deck without replacing the first card?
+
+1/221
+
+14) We have a sample of 38 vehicles, 16 are red, 5 are trucks, and 2 are both. A randomly chosen vehicle is red. What is the probability it is a truck?
+
+1/8
+
+
+15) Spin a spinner numbered 1 to 7, and toss a coin. What is the probability of getting an odd number on the spinner and a tail on the coin?
+
+2/7
+
+16) The probability that it is Friday and that a student is absent is 0.03. Since there are 5 school days in a week, the probability that it is Friday is 0.2. What is the probability that a student is absent given that today is Friday?
+
+0.15
